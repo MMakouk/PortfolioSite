@@ -7,13 +7,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Content Remove="wwwroot\assets\css\fontawesome-all.min.css" />
-    <Content Remove="wwwroot\assets\images\highlight.png" />
-    <Content Remove="wwwroot\assets\images\overlay.png" />
-    <Content Remove="wwwroot\assets\css\main.css" />
-  </ItemGroup>
-
-  <ItemGroup>
     <Folder Include="Template\" />
     <Folder Include="Template\assets\js\" />
   </ItemGroup>
